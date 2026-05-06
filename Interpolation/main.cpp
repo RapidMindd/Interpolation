@@ -4,6 +4,9 @@
 
 int sc_main(int argc, char *argv[])
 {
+  (void)argc;
+  (void)argv;
+
   Interpolator interpolator("interpolator");
   InterpolatorTest interpolator_test("interpolator_test");
 
@@ -27,7 +30,7 @@ int sc_main(int argc, char *argv[])
   interpolator.out_interpolated(s_output_interpolated);
 
   sc_trace_file *tf = sc_create_vcd_trace_file("interpolator");
-  tf->set_time_unit(1, SC_NS);
+  tf->set_time_unit(1, SC_PS);
 
   sc_trace(tf, s_clk, "clk");
   sc_trace(tf, s_reset, "reset");

@@ -5,12 +5,19 @@
             "includePath": [
                 "${workspaceFolder}",
                 "${workspaceFolder}/**",
-                "${env:SYSTEMC_HOME}/include",
-                "${env:SYSTEMC_HOME}/include/systemc",
-                "/usr/include/systemc",
-                "/usr/local/include",
-                "/usr/include"
+                "/usr/include",
+                "/usr/include/x86_64-linux-gnu",
+                "/usr/include/systemc"
             ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "${workspaceFolder}/**",
+                    "/usr/include",
+                    "/usr/include/x86_64-linux-gnu",
+                    "/usr/include/systemc"
+                ]
+            },
             "defines": [],
             "cStandard": "c17",
             "cppStandard": "c++17",
