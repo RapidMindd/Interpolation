@@ -1,10 +1,10 @@
-Start testing: May 07 01:30 EEST
+Start testing: May 07 01:48 EEST
 ----------------------------------------------------------
 2/2 Testing: interpolator_synth_SYN
 2/2 Test: interpolator_synth_SYN
 Command: "/home/yaroslav/Programming/SystemC/Interpolation/synth/build/interpolator_synth_sctool"
 Directory: /home/yaroslav/Programming/SystemC/Interpolation/synth/build
-"interpolator_synth_SYN" start time: May 07 01:30 EEST
+"interpolator_synth_SYN" start time: May 07 01:48 EEST
 Output:
 ----------------------------------------------------------
 
@@ -34,11 +34,11 @@ Elaboration database created
  SystemC-to-Verilog translation, OK 
 ----------------------------------------------------------------
 <end of output>
-Test time =   2.09 sec
+Test time =   2.04 sec
 ----------------------------------------------------------
 Test Passed.
-"interpolator_synth_SYN" end time: May 07 01:30 EEST
+"interpolator_synth_SYN" end time: May 07 01:48 EEST
 "interpolator_synth_SYN" time elapsed: 00:00:02
 ----------------------------------------------------------
 
-End testing: May 07 01:30 EEST
+End testing: May 07 01:48 EEST
