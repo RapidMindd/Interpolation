@@ -20,8 +20,8 @@ SC_MODULE(Interpolator)
 
   SC_CTOR(Interpolator)
   {
-    SC_METHOD(on_tick);
-    sensitive << clk.pos();
+    SC_CTHREAD(on_tick, clk.pos());
+    async_reset_signal_is(reset, true);
   }
 };
 

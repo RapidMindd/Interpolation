@@ -1,0 +1,44 @@
+Start testing: May 07 01:30 EEST
+----------------------------------------------------------
+2/2 Testing: interpolator_synth_SYN
+2/2 Test: interpolator_synth_SYN
+Command: "/home/yaroslav/Programming/SystemC/Interpolation/synth/build/interpolator_synth_sctool"
+Directory: /home/yaroslav/Programming/SystemC/Interpolation/synth/build
+"interpolator_synth_SYN" start time: May 07 01:30 EEST
+Output:
+----------------------------------------------------------
+
+        SystemC 3.0.1-Accellera --- May  7 2026 01:26:58
+        Copyright (c) 1996-2024 by all Contributors,
+        ALL RIGHTS RESERVED
+Design unity file: /home/yaroslav/Programming/SystemC/Interpolation/synth/build/interpolator_synth.sctool.cpp
+
+Finalize elaboration
+--------------------------------------------------------------
+ Intel Compiler for SystemC (ICSC) version 1.7.4, Feb 17,2026
+--------------------------------------------------------------
+Top module is Interpolator
+Elaboration database created
+
+
+------------------------------------------------
+  Module number       1
+  Process number      1
+------------------------------------------------
+  General statements  10
+  Control statements  2
+  Assertions          0
+  Wait statements     2
+------------------------------------------------
+----------------------------------------------------------------
+ SystemC-to-Verilog translation, OK 
+----------------------------------------------------------------
+<end of output>
+Test time =   2.09 sec
+----------------------------------------------------------
+Test Passed.
+"interpolator_synth_SYN" end time: May 07 01:30 EEST
+"interpolator_synth_SYN" time elapsed: 00:00:02
+----------------------------------------------------------
+
+End testing: May 07 01:30 EEST

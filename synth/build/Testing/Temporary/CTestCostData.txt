@@ -1,0 +1,3 @@
+interpolator_synth_BUILD 3 0.514899
+interpolator_synth_SYN 2 1.04727
+---

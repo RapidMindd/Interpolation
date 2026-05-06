@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/interpolator_synth.dir/synth_main.cpp.o CMakeFiles/interpolator_synth.dir/home/yaroslav/Programming/SystemC/Interpolation/Interpolation/Interpolator.cpp.o -o interpolator_synth  -Wl,-rpath,/home/yaroslav/Programming/SystemC/tools/icsc-install/lib /home/yaroslav/Programming/SystemC/tools/icsc-install/lib/libsystemc.so.3.0.1 

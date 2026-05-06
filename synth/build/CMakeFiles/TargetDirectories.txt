@@ -1,0 +1,5 @@
+/home/yaroslav/Programming/SystemC/Interpolation/synth/build/CMakeFiles/interpolator_synth.dir
+/home/yaroslav/Programming/SystemC/Interpolation/synth/build/CMakeFiles/interpolator_synth_sctool.dir
+/home/yaroslav/Programming/SystemC/Interpolation/synth/build/CMakeFiles/test.dir
+/home/yaroslav/Programming/SystemC/Interpolation/synth/build/CMakeFiles/edit_cache.dir
+/home/yaroslav/Programming/SystemC/Interpolation/synth/build/CMakeFiles/rebuild_cache.dir
